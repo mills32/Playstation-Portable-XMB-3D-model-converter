@@ -16,7 +16,7 @@ TXT file settings:
 - T Texture mapping mode: 0 UV COORDS / 1 ENV MAP (reflection).
 - S Animation speed, animation has 240 frames, so 60.000000 fps will make it last 4 seconds.
 - TRANSLATE ANIMATION: 4 key frames (XYZ positions, for frame 0, 80, 160, 240).
-- SCALE ANIMATION: 4 key frames (XYZ positions, for frame 0, 80, 160, 240).
+- SCALE ANIMATION: 4 key frames (XYZ scaling, for frame 0, 80, 160, 240).
 - ROTATE ANIMATION: 4 key frames (XYZ rotations in radians, for frame 0, 80, 160, 240. 360º = 6.28319 rad).
 - TEXTURE ANIMATION: 4 key frames (U pos + V pos + Width + Height, for frame 0, 80, 160, 240).
 
