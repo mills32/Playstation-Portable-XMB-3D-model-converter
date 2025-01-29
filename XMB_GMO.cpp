@@ -506,7 +506,7 @@ int main(int argc, char **argv) {
 		printf(	"\n\n\n\n"
 				"EDIT PSP XMB WAVES (GMO 3D MODEL)\n"
 				"---------------------------------\n"
-				"usage: XMB_GMO image.tga model.ply anim.txt output.gmo"
+				"usage: XMB_GMO name.tga (or name.ply, or name.txt)"
 				"\n\n\n\n");
 		return 0;
 	}
