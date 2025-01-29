@@ -23,14 +23,12 @@ TXT file settings:
 Test models as they look on Blender (look better on PSP):
 
 ![screenshot](Models/ps2.png)
-https://github.com/mills32/Playstation-Portable-XMB-3D-model-converter/blob/main/Models/chips.png?raw=true
-![plot](https://raw.githubusercontent.com/mills32/Playstation-Portable-XMB-3D-model-converter).
 
-![plot](https://raw.githubusercontent.com/mills32/Playstation-Portable-XMB-3D-model-converter/Models/waves.png).
+![screenshot](Models/waves.png).
 
-![plot](https://raw.githubusercontent.com/mills32/Playstation-Portable-XMB-3D-model-converter/Models/planets.png).
+![screenshot](Models/planets.png).
 
-![plot](https://raw.githubusercontent.com/mills32/Playstation-Portable-XMB-3D-model-converter/Models/chips.png).
+![screenshot](Models/chips.png).
 
 
 
