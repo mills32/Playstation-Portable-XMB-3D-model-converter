@@ -20,3 +20,8 @@ TXT file settings:
 - ROTATE ANIMATION: 4 key frames (XYZ rotations in radians, for frame 0, 80, 160, 240. 360º = 6.28319 rad).
 - TEXTURE ANIMATION: 4 key frames (U pos + V pos + Width + Height, for frame 0, 80, 160, 240).
 
+Test models as they look on Blender (look better on PSP):
+![plot](https://raw.githubusercontent.com/mills32/Adplug-for-8088-86/master/CGA.png)
+
+
+
