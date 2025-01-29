@@ -21,7 +21,16 @@ TXT file settings:
 - TEXTURE ANIMATION: 4 key frames (U pos + V pos + Width + Height, for frame 0, 80, 160, 240).
 
 Test models as they look on Blender (look better on PSP):
-![plot](https://raw.githubusercontent.com/mills32/Adplug-for-8088-86/master/CGA.png)
+
+![plot](https://raw.githubusercontent.com/mills32/Playstation-Portable-XMB-3D-model-converter/Models/ps2.png).
+
+![plot](https://raw.githubusercontent.com/mills32/Playstation-Portable-XMB-3D-model-converter/Models/waves.png).
+
+![plot](https://raw.githubusercontent.com/mills32/Playstation-Portable-XMB-3D-model-converter/Models/planets.png).
+
+![plot](https://raw.githubusercontent.com/mills32/Playstation-Portable-XMB-3D-model-converter/Models/chips.png).
+
+
 
 
 
