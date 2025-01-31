@@ -8,7 +8,7 @@ You need:
 - ply (3D model with texture, vertex colors, and normals, -z fordward / y up)
 - txt (settings file)
 
-All files (tga, ply and txt) must use the same name (test.tga test.ply text.txt), then drag and drop any of them to XMB_GMO.bat, and the program will create the model.
+All files (tga, ply and txt) must use the same name (test.tga test.ply text.txt), then drag and drop any of them to XMB_GMO_Convert.bat, and the program will create the model.
 Edit txt file to animate models, do not change the file structure, just edit the float numbers and leave the rest.
 
 TXT file settings:
