@@ -5,7 +5,7 @@ This can convert ply 1.0 models to GMO models to use as background on PSP XMB me
 
 You need:
 - tga file (image/texture)
-- ply (3D model with texture, vertex colors, and normals, -z fordward / y up)
+- ply (Fisrt version, exported from blender 2.7 and earlier, with texture, vertex colors, and normals, -z fordward / y up)
 - txt (settings file)
 
 All files (tga, ply and txt) must use the same name (test.tga test.ply text.txt), then drag and drop any of them to XMB_GMO_Convert.bat, and the program will create the model.
